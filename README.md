@@ -1,0 +1,2 @@
+# notesOnIBMMq
+ibm mq config
